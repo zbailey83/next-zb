@@ -200,7 +200,6 @@ const About = () => {
           exit='hidden'
           className='flex flex-col w-full xl:max-w-[48%] h-[480px]'
         >
-          </div>
         </motion.div>
       </div>
     </div>
