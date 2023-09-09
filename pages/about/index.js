@@ -136,9 +136,9 @@ const About = () => {
             exit='hidden'
             className='max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'
           >
-            10 years ago, I began freelancing as a developer. Since then, I've
-            done remote work for agencies, counsulted for startups, and
-            collaborated on digital products for business and consumer use.
+            10 years ago I began freelancing as a developer Since then Ive
+            done remote work for agencies counsulted for startups and
+            collaborated on digital products for business and consumer use
           </motion.p>
           {/* counters */}
           <motion.div
@@ -182,7 +182,7 @@ const About = () => {
                   <CountUp start={0} end={999} duration={5} /> +
                 </div>
                 <div className='text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]'>
-                  Projects To Be Built!
+                  Projects To Be Built
                 </div>
               </div>
             </div>
